@@ -1,4 +1,4 @@
-<p align="center"><img src="public/logo.png" alt="Logo" width="600"/></p>
+<p align="center"><img src="public/logo.png" alt="Logo" width="200"/></p>
 
 # Asteroider
 
@@ -14,7 +14,7 @@ Juego de supervivencia 2D top-down hecho en Unity. El jugador navega un campo de
 - **Muerte**: Dispara efecto de particulas de explosion, guarda el puntaje maximo, muestra boton de reinicio con feedback hover/click.
 - **Puntaje**: Basado en tiempo (scoreMultiplier x segundos) + recoleccion de bonus.
 
-<img src="public/flow_chart.png" alt="Diagrama de flujo del juego" width="600"/>
+<p align="center"><img src="public/flow_chart.png" alt="Diagrama de flujo del juego" width="600"/></p>
 
 ## Elementos del juego
 
@@ -70,3 +70,13 @@ Juego de supervivencia 2D top-down hecho en Unity. El jugador navega un campo de
 | speed | 15 | Velocidad objetivo de persecucion |
 | acceleration | 1 | Factor de suavizado de velocidad |
 | rotationSpeed | 2 | Tasa de rotacion hacia el objetivo |
+
+## Screenshots
+
+<p>
+  <img src="public/example_1.png" alt="Screenshot 1" width="400"/>
+  <br/>
+  <img src="public/example_2.png" alt="Screenshot 2" width="400"/>
+  <br/>
+  <img src="public/example_3.png" alt="Screenshot 3" width="400"/>
+</p>
