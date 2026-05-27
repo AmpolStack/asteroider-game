@@ -1,4 +1,4 @@
-<p align="center"><img src="public/logo.png" alt="Logo" width="200"/></p>
+<p align="center"><img src="public/logo.png" alt="Logo" width="600"/></p>
 
 # Asteroider
 
